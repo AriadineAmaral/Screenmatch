@@ -11,7 +11,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 	
-		//Instancia da classe filme
+		
 		Titulo meuFilme = new Filme();
 		
 		meuFilme.setNome("O Poderoso Chefão");
