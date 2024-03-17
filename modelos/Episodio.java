@@ -13,7 +13,7 @@ public class Episodio implements Classificavel{
 	private Serie serie;
 	
 	
-	//Getters e Setters 
+	
 	
 	public int getClassificacao() {
         if (totalVisualizacoes > 100) {
