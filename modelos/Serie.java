@@ -4,7 +4,6 @@ import br.com.alura.screenmatch.calculo.Classificavel;
 
 public class Serie extends Titulo implements Classificavel {
 	
-	//Extends para herdar a classe e implements para herdar a interface
 
 	private int temporadas;
 	private boolean ativa;
@@ -45,7 +44,7 @@ public class Serie extends Titulo implements Classificavel {
 	}
 	
 	
-	// override sobreescrevi o método
+	
 	
 	public int getDuracaoEmMin() {
 		
