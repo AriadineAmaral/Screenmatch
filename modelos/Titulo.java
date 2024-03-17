@@ -4,7 +4,7 @@ import br.com.alura.screenmatch.calculo.Classificavel;
 
 public class Titulo implements Classificavel {
 
-	//Atributos: características de um objeto
+	
 	
 		private String nome;
 		private int anoLancamento;
@@ -87,7 +87,7 @@ public class Titulo implements Classificavel {
 
 		@Override
 		public int getClassificacao() {
-			// TODO Auto-generated method stub
+			
 			return 0;
 		}
 }
